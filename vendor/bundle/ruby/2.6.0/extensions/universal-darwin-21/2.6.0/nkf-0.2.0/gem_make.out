@@ -1,0 +1,13 @@
+current directory: /Users/sanganiajay/Desktop/Devankshu/Devankshu/Hasti/Demo/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240308-1993-4s2w6t.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /Users/sanganiajay/Desktop/Devankshu/Devankshu in PATH, mode 040757
+creating Makefile
+
+current directory: /Users/sanganiajay/Desktop/Devankshu/Devankshu/Hasti/Demo/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/sanganiajay/Desktop/Devankshu/Devankshu/Hasti/Demo/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+make: *** No rule to make target `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/universal-darwin21/ruby/config.h', needed by `nkf.o'.  Stop.
+
+make failed, exit code 2
