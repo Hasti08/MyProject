@@ -11,7 +11,7 @@ function App () {
      
     return (<>
                 <Navigator/>
-                <FlashMessage position="top" duration={5000} />
+                <FlashMessage position="top" duration={10000} />
             </>);
 }
 
